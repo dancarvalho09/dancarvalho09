@@ -1,4 +1,4 @@
-### <h1> Hello people! Eu sou a Danúbia Carvalho. 😁✌ </h1>
+### <h1> Hello people! Eu sou Danúbia Carvalho. 😁✌ </h1>
 
 
 - 🔭 Estagiando em AWS
