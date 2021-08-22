@@ -1,8 +1,7 @@
 ### <h1> Hello people! Eu sou Danúbia Carvalho. 😁✌ </h1>
 
-
-- 🔭 Estagiando em AWS
 - 👩‍🏫 Estudando HTML/CSS/Javascript
+- 🔭 Familiarização com AWS
 - 💫 Hobby: games
 
 ##
