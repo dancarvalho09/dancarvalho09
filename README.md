@@ -1,4 +1,4 @@
-### <h1> Hello people! Eu sou Danúbia Carvalho. 😁✌ </h1>
+### <h1> Olááá! Eu sou Danúbia Carvalho. </h1>
 
 - 👩‍🏫 Estudando HTML/CSS/Javascript
 - 🔭 Familiarização com AWS
