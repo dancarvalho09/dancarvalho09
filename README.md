@@ -1,7 +1,7 @@
-###  Olá! Eu sou Danúbia Carvalho.
+###  Olá! Eu sou Danúbia Carvalho 👋
 
 - 👩‍🏫 Estudando HTML/CSS/Javascript
-- 🔭 Familiarização com AWS
+- 🔭 Familiarização com AWS / Jira Software
 - 💫 Hobby: games
 
 ##
