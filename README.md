@@ -3,7 +3,7 @@
 - 👩‍🏫 Estudando HTML/CSS/Javascript
 - 🔭 Familiarização com AWS / Jira Software
 - 💫 Hobby: games
-- 🔗 <a href="https://dancarvalho09.github.io/projetos/" target="_blank">Clique aqui para acessar os Projetos</a>
+- 🔗 <a href="https://dancarvalho09.github.io/projetos/" target="_blank">Projetos</a>
 
 ##
 <!-- Customizacao principal-->
