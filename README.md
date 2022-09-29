@@ -1,6 +1,6 @@
 #  Olá! Eu sou Danúbia Carvalho 👋
 
-- 👩‍🏫 Estudando HTML/CSS/Javascript
+- 👩‍🏫 Aprimorando a cada dia em Desenvolvimento Web
 - 🔭 Familiarização com AWS / Jira Software
 - 💫 Hobby: games
 - 🔗 <a href="https://dancarvalho09.github.io/projetos/" target="_blank">Projetos</a>
