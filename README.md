@@ -22,7 +22,7 @@
   <img align="center" alt="Dan-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="right" alt="Dan-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div> 
-<br>
+<br><br><br><br><br>
   
 <!-- Redes sociais-->
  <div>
