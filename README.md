@@ -3,7 +3,7 @@
 - 👩‍🏫 Aprimorando a cada dia em Programação
 - 🔭 Familiarização com AWS / Jira Software / Linux / SQL
 - 💫 Hobby: games
-- 🔗 <a href="https://dancarvalho09.github.io/projetos/" target="_blank">Projetos</a>
+- 🔗 <a href="https://dancarvalho09.github.io/projetos/" target="_blank">Projetinhos</a>
 
 ##
 <!-- Customizacao principal-->
