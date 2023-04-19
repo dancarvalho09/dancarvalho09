@@ -1,7 +1,7 @@
 #  Olá! Eu sou Danúbia Carvalho 👋
 
-- 👩‍🏫 Aprimorando a cada dia em Desenvolvimento Web
-- 🔭 Familiarização com AWS / Jira Software
+- 👩‍🏫 Aprimorando a cada dia em Programação
+- 🔭 Familiarização com AWS / Jira Software / Linux / SQL
 - 💫 Hobby: games
 - 🔗 <a href="https://dancarvalho09.github.io/projetos/" target="_blank">Projetos</a>
 
