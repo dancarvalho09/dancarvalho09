@@ -4,7 +4,7 @@
 - 🔭 Conhecimento em: HTML, CSS, Javascript,  AWS, Jira, Linux, SQL
 - 📜 Certificação: AWS Cloud Practitioner e OCI Foundations Associate Oracle
 - 💫 Hobby: games
-- 🔗 <a href="https://dancarvalho09.github.io/projetos/" target="_blank">Projetinhos</a>
+- 🔗 <a href="https://dancarvalho09.github.io/projetos/" target="_blank">Projetos</a>
 
 ##
 <!-- Customizacao principal-->
