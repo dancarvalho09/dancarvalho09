@@ -1,8 +1,8 @@
 #  Olá! Eu sou Danúbia Carvalho 👋
 
-- 👩‍🏫 Aprimorando a cada dia em Programação
-- 🔭 Conhecimento em: HTML, CSS, Javascript,  AWS, Jira, Linux, SQL
-- 📜 Certificação: AWS Cloud Practitioner e OCI Foundations Associate Oracle
+- 👩‍🏫 Aprimorando a cada dia em Programação e IaC
+- 🔭 Conhecimento em: HTML, CSS, Javascript,  AWS, Jira, Linux, Git e Terraform
+- 📜 Certificação: AWS Cloud Practitioner
 - 💫 Hobby: games
 - 🔗 <a href="https://dancarvalho09.github.io/projetos/" target="_blank">Projetos</a>
 
