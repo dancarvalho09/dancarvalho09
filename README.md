@@ -1,4 +1,4 @@
-#  Olá! Eu sou Danúbia Carvalho 👋
+#  Hello, Everbody! 🫡
 
 - 👩‍🏫 Aprimorando a cada dia em Programação e IaC
 - 🔭 Conhecimento em: HTML, CSS, Javascript,  AWS, Jira, Linux, Git e Terraform
