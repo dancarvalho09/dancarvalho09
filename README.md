@@ -1,4 +1,4 @@
-#  Hello, Everbody! 🫡
+#  Hello, Everybody! 🫡
 
 - 👩‍🏫 Aprimorando a cada dia em Programação e DevOps
 - 🔭 Conhecimento em: HTML, CSS, Javascript,  AWS, Jira, Linux, Git e Terraform
